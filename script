@@ -1,0 +1,5 @@
+git init
+git remote add origin https://github.com/tvuj-ucet/mool-barber.git
+git add .
+git commit -m "První verze webu Mool Barber"
+git push -u origin master
